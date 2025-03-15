@@ -1,0 +1,13 @@
+# .gitignore
+
+# Node modules
+node_modules/
+dist/
+.next/
+
+# OS-specific
+.DS_Store
+
+# Env files
+.env
+.env.local

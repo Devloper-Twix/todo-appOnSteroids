@@ -1,0 +1,22 @@
+
+---
+
+## Getting Started
+
+### 1. Clone & Install
+
+```bash
+# Clone the repository
+git clone https://github.com/YourUsername/YourRepoName.git
+
+cd todo-app
+
+# For the backend
+cd backend
+pip install -r requirements.txt
+# or pipenv install
+
+# For the frontend
+cd ../frontend
+npm install
+# or yarn
